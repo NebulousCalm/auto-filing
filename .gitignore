@@ -135,3 +135,4 @@ replit.nix
 
 .config/
 .upm/
+.breakpoints

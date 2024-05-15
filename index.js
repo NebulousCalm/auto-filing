@@ -12,3 +12,5 @@ app.engine('html', ejs.renderFile);
 app.get('/', (req, res) =>{
   res.render('index.html');
 });
+
+app.listen(8080);
